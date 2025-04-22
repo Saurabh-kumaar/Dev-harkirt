@@ -133,14 +133,14 @@ let arr = ["vikash" , 21 , {
   cities:["delhi", "chandigarh", {
     country: "canada", 
     city: "kuala lumpur"
-  }]SVGAnimatedLength;k 
+  }]
 }];  
 
 console.log(arr[2].cities[2].city);
 
 
 
-
+jkgl 
 
 
 
