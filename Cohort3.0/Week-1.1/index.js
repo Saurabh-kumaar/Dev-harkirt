@@ -114,18 +114,29 @@
 
 // ---
 
-function greet(user) {
-  console.log("my " + user.name + " name is " + user.name2); 
-} 
+// function greet(user) {
+//   console.log("my " + user.name + " name is " + user.name2); 
+// } 
 
-let user = {
-  name: "college", 
-  name2: "dav"
+// let user = {
+//   name: "college", 
+//   name2: "dav"
 
-} 
-greet(user); 
+// } 
+// greet(user); 
 
+// ------- 
 
+let arr = ["vikash" , 21 , { 
+  name: "vikash", 
+  age: 21, 
+  cities:["delhi", "chandigarh", {
+    country: "canada", 
+    city: "kuala lumpur"
+  }]
+}];  
+
+console.log(arr[2].cities[2].city);
 
 
 
