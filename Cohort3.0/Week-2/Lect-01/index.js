@@ -31,7 +31,7 @@ const data = fs.readFileSync('b.txt', 'utf8');
 console.log(data);  
 
 
-
+dakjf 
 
 adjfjkl 
 
