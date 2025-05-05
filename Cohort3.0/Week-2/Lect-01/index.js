@@ -25,30 +25,40 @@
 
 // --------------------------- 
 
-const fs = require('fs'); 
+// const fs = require('fs'); 
 
-const data = fs.readFileSync('b.txt', 'utf8'); 
-console.log(data);  
+// const data = fs.readFileSync('b.txt', 'utf8'); 
+// console.log(data);  
 
+// --------------------------- 
+ 
+        // Asyncrounous 
 
-dakjf 
-sf 
-adjfjkl 
+// const fs = require("fs"); 
 
+// function print(err, data) {
+//   if(err) {
+//     console.log("File not found"); 
+//   } else {
+//     console.log(data); 
+//   }
+// }
+// fs.readFile("ass.txt", "utf-8", print); 
+ 
+// console.log("done"); 
 
+// -------------------------------- 
 
+      // setTimeout 
 
+function timeout() {
+  console.log("this is the setTimeout"); 
+}
 
+console.log("heyyyy"); 
 
-
-
-
-
-
-
-
-
-
+setTimeout(timeout, 1000); 
+console.log("welcome to loupe"); 
 
 
 
