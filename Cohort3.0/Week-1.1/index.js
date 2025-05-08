@@ -127,20 +127,17 @@
 
 // ------- 
 
-let arr = ["vikash" , 21 , { 
-  name: "vikash", 
-  age: 21, 
-  cities:["delhi", "chandigarh", {
-    country: "canada", 
-    city: "kuala lumpur"
-  }]
-}];  
+// let arr = ["vikash" , 21 , { 
+//   name: "vikash", 
+//   age: 21, 
+//   cities:["delhi", "chandigarh", {
+//     country: "canada", 
+//     city: "kuala lumpur"
+//   }]
+// }];  
 
-console.log(arr[2].cities[2].city);
+// console.log(arr[2].cities[2].city);
 
-
-
-jkgl 
 
 
 
@@ -214,8 +211,39 @@ jkgl
 
 // -------- 
 
+//  Qs 
+//  create a function that takes an array of objects as input , and 
+//  return the users whose age > 18 and are male  
+
+// function solve(arr) { 
+//   let arr2 = []; 
+//   for(let i=0; i<arr.length; i++){
+//     if(arr[i].gender === "male" && arr[i].age > 18) {
+//       arr2.push(arr[i])
+//     }
+//   } 
+//   return arr2; 
+
+// } 
+
+// const users = [{
+//   name: "harkirat", 
+//   age: 18, 
+//   gender: "male"  
+//   }, {  
+
+//     name: "priya", 
+//     age: 21, 
+//     gender: "female"  
+//   }, { 
+
+//     name: "mohit", 
+//     age: 10, 
+//     gender: "male"
+// }] 
  
- 
+// const ans = solve(users); 
+// console.log(ans); 
 
 
 
