@@ -114,11 +114,10 @@ console.log(ans);
 // const ans = sum(30); 
 // console.log(ans); 
 
+plk
 
 
 
-
-sac 
 
 
 
