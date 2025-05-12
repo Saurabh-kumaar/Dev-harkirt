@@ -62,13 +62,12 @@
 
 
 
-function sum(a,b){
-  return a + b ;
-}
+// function sum(a,b){
+//   return a + b ;
+// }
  
-const ans = sum(5,8); 
-console.log(ans); 
-
+// const ans = sum(5,8); 
+// console.log(ans); 
 
 
 
@@ -114,8 +113,56 @@ console.log(ans);
 // const ans = sum(30); 
 // console.log(ans); 
 
-plk
-fg
+
+
+ 
+
+// callbacks function 
+
+// function hello() {
+//   console.log("hello ji kya hal hai");  
+// }
+ 
+// hello(); 
+
+// function arguments----------------------- 
+
+// function arguments(username, age) {
+//   console.log("your name is " + username);  
+//   console.log("you ara " + age + " years old"); 
+// }
+
+// arguments("shivam", 40); 
+// arguments("raju", 30);
+ 
+// ---------- 
+
+// function sum(a, b) {
+//   return a + b; 
+// }
+// sum(5,9); 
+// console.log(result); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
