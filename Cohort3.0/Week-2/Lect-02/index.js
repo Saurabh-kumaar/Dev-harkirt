@@ -75,7 +75,7 @@
 // timeout function----------
 adf 
 function callback() {
-    console.log("harkirat"); 
+    console.log("harkirat"); kljl
 }
  
 // setTimeout(logName, 3000);  
