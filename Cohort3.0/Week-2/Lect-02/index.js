@@ -73,7 +73,7 @@
 // console.log(firstName); 
   
 // timeout function----------
-
+adf 
 function callback() {
     console.log("harkirat"); 
 }
