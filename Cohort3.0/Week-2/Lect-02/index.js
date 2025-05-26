@@ -73,9 +73,9 @@
 // console.log(firstName); 
   
 // timeout function----------
-adf 
+
 function callback() {
-    console.log("harkirat"); kljl
+    console.log("harkirat"); 
 }
  
 // setTimeout(logName, 3000);  
@@ -83,7 +83,7 @@ function callback() {
 setTimeoutPromisified(3000).then(callback); 
 
 
-
+djakhf
 
 
 
