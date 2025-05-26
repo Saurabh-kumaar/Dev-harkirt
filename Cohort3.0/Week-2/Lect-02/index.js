@@ -74,7 +74,7 @@
   
 // timeout function----------
 
-function callback() {
+function callback() {;jkaldjf 
     console.log("harkirat"); 
 }
  
