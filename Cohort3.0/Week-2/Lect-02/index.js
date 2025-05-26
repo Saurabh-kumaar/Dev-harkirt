@@ -75,7 +75,7 @@
 // timeout function----------
 
 function callback() {;jkaldjf 
-    console.log("harkirat"); 
+    console.log("harkirat"); ;aljdflkj 
 }
  
 // setTimeout(logName, 3000);  
