@@ -74,17 +74,15 @@
   
 // timeout function----------
 
-function callback() {;jkaldjf 
-    console.log("harkirat"); ;aljdflkj 
+function callback() {; 
+    console.log("harkirat"); 
 }
  
 // setTimeout(logName, 3000);  
 
 setTimeoutPromisified(3000).then(callback); 
-
-
-djakhf
-
+jhj
+aojf 
 
 
 
