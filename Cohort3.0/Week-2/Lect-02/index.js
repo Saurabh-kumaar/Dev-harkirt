@@ -14,7 +14,7 @@
 //     }
 
 //     paint() {
-//         console.log(`Painting with color ${this.color}`);
+//         console.log("Painting with color " + this.color);
 //     }
 // }
  
@@ -58,7 +58,7 @@
         // find these 
 
 // const date = new Date(); 
-// // console.log(date);  
+// console.log(date);  
 // console.log(date.getFullYear());  // year
 // console.log(date.getMonth());  // month  0-jan, 1-feb, 4-may
 // console.log(date.getDay());  // day
@@ -74,25 +74,37 @@
   
 // timeout function----------
 
-function callback() {; 
-    console.log("harkirat"); 
-}
+// function callback() {; 
+//     console.log("harkirat"); 
+// }
  
 // setTimeout(logName, 3000);  
 
-setTimeoutPromisified(3000).then(callback); 
+// setTimeoutPromisified(3000).then(callback); 
+ 
+// const rect1 = {
+//     width: 2, 
+//     height: 3, 
+//     color: "red"
+// }
+
+// function area(rect) {
+//     return rect.width * rect.height; 
+// }
+
+// const ans = area(rect1); 
+// console.log(ans); 
+
+// -------------------------------- 
+
+// function random() {
+
+// }
+
+// let p = new Promise (random); 
+// console.log(p); 
 
 
-
-
-knadkf 
-
-lkajf
-
-paodkf 
-
-
-lajdoif
 
 
 

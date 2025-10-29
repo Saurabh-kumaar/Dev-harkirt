@@ -27,7 +27,7 @@
 
 // const fs = require('fs'); 
 
-// const data = fs.readFileSync('b.txt', 'utf8'); 
+// const data = fs.readFileSync('a.txt', 'utf8'); 
 // console.log(data);  
 
 // --------------------------- 
@@ -57,10 +57,17 @@
 
 // console.log("heyyyy"); 
 
-// setTimeout(timeout, 1000); 
+// setTimeout(timeout, 10000); 
 // console.log("welcome to loupe"); 
 
+// -------------- 
+// const fs = require("fs")
+// function cb(err, data) {
+//   console.log(typeof err);
+// }
 
+//  const contents = fs.readFile("aaaa.txt", "utf-8", cb);  
+//  console.log(contents); 
 
 // function sum(a,b){
 //   return a + b ;
@@ -97,7 +104,7 @@
 //   return ans; 
 // } 
 
-// const ans = sum(30); 
+// const ans = sum(5); 
 // console.log(ans); 
 
 // ------------------------------------ 
@@ -143,15 +150,27 @@
 // sum(5,9); 
 // console.log(result); 
 
+// const fs = require("fs"); 
+
+// function print(err, data) {
+//   console.log("error is");
+//   console.log("err"); 
+//    console.log("data is"); 
+//    console.log(data);  
+//  }
+
+//  fs.readFile("a.txt", "utf-8", print);
 
 
 
+// ----------------------------
 
+let c = 0; 
+for (let i=0; i<20; i++) {
+  c++
+}
 
-
-
-
-
+console.log(c);
 
 
 
